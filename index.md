@@ -1,4 +1,5 @@
-![Profile photo](profiles.jpg){:style="width:500px;"}
+![Profile photo](profiles.jpg){:style="width:600px;"}
+
 _Research Interests: AI Alignment with Responcible principles: Bias • Fairness • Privacy preservation_
 ---
 
