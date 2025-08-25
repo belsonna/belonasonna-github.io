@@ -11,6 +11,10 @@ Previously, I worked as an **Associate AI Engineer at [Future](https://www.futur
 Beyond research, I actively advocate for **expanding access to AI and STEM education** among underrepresented communities, especially in Africa. I am the **Founder and Co-lead of [Bel’s AI Initiative](https://www.linkedin.com/company/bel-s-ai-initiative/)**, which conducts bilingual (English and French) AI outreach in Central Africa with a focus on rural areas. I am also a member of [AfroLeadership](https://afroleadership.org/), the [WIMLDS Yaoundé](http://wimlds.org/about-the-yaounde-team-2/) chapter, and a co-organizer of [KMERAI](https://sites.google.com/view/kmerai-2021/home?authuser=0) events.
 
 I have been recognized among the [100 Brilliant Women in AI Ethics™ – 2022](https://womeninaiethics.org/the-list/of-2022/) and the [80 African women advancing Artificial Intelligence in Africa and around the world](https://africanshapers.com/en/80-african-women-advancing-artificial-intelligence-in-africa-and-the-world/).
+
+If you would like to connect, please reach out at:  **bsonna at aimsammi dot org**
+
+
 ---
 
 ## News
@@ -27,7 +31,9 @@ Diversity in Tech Workplaces_. In Proceedings of Empowering Women of Colour in A
 - **Belona Sonna** and Alban Grastien. 2024. _Can Unfairness in ML Decision-Making Processes be Assessed  Through the Lens of Formal Explanations?_. In Proceedings of XAI 2024 workshop @ IJCAI.
 - Gadosey Pius Kwao, Deborah Dormah Kanubala, and **Belona Sonna**. 2023. _AI Ethics Education for Future African Leaders_. In book: AI Ethics in Higher Education: Insights from Africa and Beyond (pp.87-101). DOI:10.1007/978-3-031-23035-6_7
 - Ezinne Nwankwo and **Belona Sonna**. 2019. _Africa's social contract with AI_. XRDS 26, 2 (Winter 2019), 44–48. https://doi.org/10.1145/3368073.   
-- [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=oqqzmloAAAAJ) 
+- [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=oqqzmloAAAAJ)
+
+  
 ---
 
 ## Contact
