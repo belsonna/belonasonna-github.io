@@ -18,6 +18,8 @@ If you would like to connect, please reach out at:  **bsonna at aimsammi dot org
 ---
 
 ## News
+- **February 2023**: I was featured in the podcast The [Fault in our Algorithms](https://podcasts.apple.com/be/podcast/episode-7-belona-sonna-phd-candidate-at-humanizing/id1614227469?i=1000575262447)
+- **July 2022**: I have attended the [inSTEM](https://archive.fleet.org.au/blog/events/instem-conference-2022/) conference in Brisbane
 - **March 2022**: I am thrilled to serve as a panelist in the responsible AI project with [MIT Sloan Management Review](https://sloanreview.mit.edu/). My views are listed [here](https://sloanreview.mit.edu/panelist/belona-sonna/)
 - **February 2022**: Excited to share my interview about my experience with [wordsthatcount](https://wordsthatcount.org/my-journey-into-artificial-intelligence-ai-belona-sonna/)
 - **February 2022**: Excited to start tutoring the statistical Machine Learning course.
