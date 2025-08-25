@@ -3,6 +3,7 @@
 
 I am a PhD student in the [Humanizing Machine Intelligence ](https://hmi.anu.edu.au/) group at the Australian National University, where my research focuses on the formal verification of AI ethics principles in automated decision-making processes. I am fortunate to be supervised by [Dr. Alban Grastien](https://comp.anu.edu.au/people/alban-grastien/), [Prof. Lexing Xie](https://users.cecs.anu.edu.au/~xlx/index.html), and [Dr. Michael Norrish](https://researchportalplus.anu.edu.au/en/persons/michael-norrish). My work aims to design assessment frameworks based on formal abductive explanations to audit **proxy-discrimination, unfairness, and privacy leakage** in AI decisions. I am particularly interested in applying these methods to healthcare systems, where trustworthy AI is critical for real-world impact.
 
+Previously I was Associate AI Engineer at [Future](https://www.future.co.jp/en/) where I worked on erly sign detection of dementia with eye gaze detection with Deep Learning Models in Tokyo. I was also research intern at the [Montreal AI Ethics Institute](https://montrealethics.ai/) where I worked on the social impact of AI.I was part of the first cohort of the [African Master’s of Machine Intelligence](https://aimsammi.org/) in Rwanda. Before that, I completed a Master in Computer Science from the Universite of Ngaoundere.
 
 ---
 
