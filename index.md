@@ -1,4 +1,4 @@
-![Profile photo](profiles.jpg)
+![Profile photo](profiles.jpg){:style="width:100px;"}
 
 _PhD Researcher at Australian National University_  
 _AI Fairness • Abductive Explanations • Responsible AI_
