@@ -1,9 +1,7 @@
-# Belona Sonna
 ![Profile photo](profile.jpg)
 
 _PhD Researcher at Australian National University_  
 _AI Fairness • Abductive Explanations • Responsible AI_
-
 ---
 
 ## About Me
