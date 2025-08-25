@@ -1,7 +1,5 @@
 ![Profile photo](profiles.jpg){:style="width:100px;"}
-
-_PhD Researcher at Australian National University_  
-_AI Fairness • Abductive Explanations • Responsible AI_
+_Research Interests: AI Alignment with Responcible principles: Bias • Fairness • Privacy preservation_
 ---
 
 ## About Me
