@@ -11,8 +11,6 @@ Previously, I worked as an **Associate AI Engineer at [Future](https://www.futur
 Beyond research, I actively advocate for **expanding access to AI and STEM education** among underrepresented communities, especially in Africa. I am the **Founder and Co-lead of [Bel’s AI Initiative](https://www.linkedin.com/company/bel-s-ai-initiative/)**, which conducts bilingual (English and French) AI outreach in Central Africa with a focus on rural areas. I am also a member of [AfroLeadership](https://afroleadership.org/), the [WIMLDS Yaoundé](http://wimlds.org/about-the-yaounde-team-2/) chapter, and a co-organizer of [KMERAI](https://sites.google.com/view/kmerai-2021/home?authuser=0) events.
 
 I have been recognized among the [100 Brilliant Women in AI Ethics™ – 2022](https://womeninaiethics.org/the-list/of-2022/) and the [80 African women advancing Artificial Intelligence in Africa and around the world](https://africanshapers.com/en/80-african-women-advancing-artificial-intelligence-in-africa-and-the-world/).
-
-If you would like to connect, please reach out at: **bsonna at aimsammi dot org**.
 ---
 
 ## News
