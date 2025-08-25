@@ -1,8 +1,4 @@
 ![Profile photo](profiles.jpg){:style="width:600px;"}
-
-_Research Interests: AI Alignment with Responcible principles: Bias • Fairness • Privacy preservation_
----
-
 ## About Me
 
 I am PhD student at the Australian National University working on the formal verification of AI ethics principles in AI decision processess. I am hounoured to have in my supervisory panel Dr Alban Grastien, Pr Lexing Xie and Dr Muchael Norrish. I am interested 
