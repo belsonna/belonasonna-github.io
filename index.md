@@ -5,7 +5,8 @@ _Research Interests: AI Alignment with Responcible principles: Bias • Fairness
 
 ## About Me
 
-I am a third-year PhD student researching how **formal abductive explanations** can help detect bias and unfairness in AI-based decision-making systems. My work focuses on bridging **explainable AI** with **ethical auditing frameworks**, with applications in workplace mental health, diversity, and high-stakes decision processes.
+I am PhD student at the Australian National University working on the formal verification of AI ethics principles in AI decision processess. I am hounoured to have in my supervisory panel Dr Alban Grastien, Pr Lexing Xie and Dr Muchael Norrish. I am interested 
+
 
 ---
 
