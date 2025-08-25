@@ -18,8 +18,10 @@ If you would like to connect, please reach out at:  **bsonna at aimsammi dot org
 ---
 
 ## News
-
-- **January 2022**: Excited to begin my PhD with Dr Alban Grastien in the Humanizing Machine Intelligence at the Australian National University.
+- **March 2022**: I am thrilled to serve as a panelist in the responsible AI project with [MIT Sloan Management Review](https://sloanreview.mit.edu/). My views are listed [here](https://sloanreview.mit.edu/panelist/belona-sonna/)
+- **February 2022**: Excited to share my interview about my experience with [wordsthatcount](https://wordsthatcount.org/my-journey-into-artificial-intelligence-ai-belona-sonna/)
+- **February 2022**: Excited to start tutoring the statistical Machine Learning course.
+- **January 2022**:  Excited to begin my PhD with Dr Alban Grastien in the Humanizing Machine Intelligence at the Australian National University.
 - **October 2021**: I was thrilled to be granted my student visa to Australia. I couldn’t wait to travel to Canberra to start my PhD journey once the borders reopened after the COVID lockdowns.
 - **September 2021**: I am excited to receive a signed copy of the book [*THE AI THOUGHT BOOK: Inspirational Thoughts & Quotes on Artificial Intelligence*](https://www.amazon.com.au/dp/B08Z4BWN1X?ref_=mr_referred_us_au_au) from the author [Murat Durmus](https://www.linkedin.com/in/ceosaisoma/).
 
