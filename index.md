@@ -1,7 +1,7 @@
 ![Profile photo](profiles.jpg){:style="width:600px;"}
 ## About Me
 
-I am a PhD student in the [Humanizing Machine Intelligence ](https://hmi.anu.edu.au/) group at the Australian National University, where my research focuses on the formal verification of AI ethics principles in automated decision-making processes. I am fortunate to be supervised by [Dr. Alban Grastien](https://comp.anu.edu.au/people/alban-grastien/), [Prof. Lexing Xie](https://users.cecs.anu.edu.au/~xlx/index.html), and [Dr. Michael Norrish](https://researchportalplus.anu.edu.au/en/persons/michael-norrish). My work aims to design assessment frameworks based on formal abductive explanations to audit **proxy-discrimination, unfairness, and privacy leakage** in both decisions and their explanations. I am particularly interested in applying these methods to healthcare systems, where trustworthy AI is critical for real-world impact.
+I am a PhD student in the [Humanizing Machine Intelligence ](https://hmi.anu.edu.au/) group at the Australian National University, where my research focuses on the formal verification of AI ethics principles in automated decision-making processes. I am fortunate to be supervised by [Dr. Alban Grastien](https://comp.anu.edu.au/people/alban-grastien/), [Prof. Lexing Xie](https://users.cecs.anu.edu.au/~xlx/index.html), and [Dr. Michael Norrish](https://researchportalplus.anu.edu.au/en/persons/michael-norrish). My work aims to design assessment frameworks based on formal abductive explanations to audit **proxy-discrimination, unfairness, and privacy leakage** in AI decisions. I am particularly interested in applying these methods to healthcare systems, where trustworthy AI is critical for real-world impact.
 
 
 ---
