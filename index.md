@@ -5,7 +5,7 @@ I am a PhD student in the [Humanizing Machine Intelligence ](https://hmi.anu.edu
 
 Previously I was Associate AI Engineer at [Future](https://www.future.co.jp/en/) where I worked on erly sign detection of dementia with eye gaze detection with Deep Learning Models in Tokyo. I was also research intern at the [Montreal AI Ethics Institute](https://montrealethics.ai/) where I worked on the social impact of AI.I was part of the first cohort of the [African Master’s of Machine Intelligence](https://aimsammi.org/) in Rwanda. Before that, I completed a Master in Computer Science from the Universite of Ngaoundere.
 
-Outside of reserach, I am an advocate for promoting the study of AI and STEM by underrepresented communities, especially in Africa. I am Founder and co-lead of [Bel’s AI Initiative](https://www.linkedin.com/company/bel-s-ai-initiative/) which conducts outreach about AI in Central Africa with a focus on rural areas. I am part of [AfroLeadership](https://afroleadership.org/), the [WIMLDS Yaounde](http://wimlds.org/about-the-yaounde-team-2/) chapter, and co-organiser of KMERAI events.
+Outside of reserach, I am an advocate for promoting the study of AI and STEM by underrepresented communities, especially in Africa. I am Founder and co-lead of [Bel’s AI Initiative](https://www.linkedin.com/company/bel-s-ai-initiative/) which conducts outreach about AI in Central Africa with a focus on rural areas. I am part of [AfroLeadership](https://afroleadership.org/), the [WIMLDS Yaounde](http://wimlds.org/about-the-yaounde-team-2/) chapter, and co-organiser of [KMERAI events](https://sites.google.com/view/kmerai-2021/home?authuser=0).
 
 ---
 
