@@ -17,9 +17,9 @@ If you would like to connect, please reach out at: **bsonna at aimsammi dot org*
 
 ## News
 
-- **Fairness in AI** – auditing decision processes and mitigating structural bias  
-- **Abductive reasoning** – generating formal explanations beyond counterfactual methods  
-- **Explainable AI (XAI)** – making models transparent and accountable  
+- **December 2021**: I finally flew to Australia to begin my PhD in January 2022, as the borders had officially reopened.
+- **October 2021**: I was thrilled to be granted my student visa to Australia. I couldn’t wait to travel to Canberra to start my PhD journey once the borders reopened after the COVID lockdowns.
+- **September 2021**: I am excited to receive a signed copy of the book [*THE AI THOUGHT BOOK: Inspirational Thoughts & Quotes on Artificial Intelligence*](https://www.amazon.com.au/dp/B08Z4BWN1X?ref_=mr_referred_us_au_au) from the author [Murat Durmus](https://www.linkedin.com/in/ceosaisoma/).
 
 ---
 
