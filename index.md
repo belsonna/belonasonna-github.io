@@ -26,6 +26,7 @@ If you would like to connect, please reach out at:  **bsonna at aimsammi dot org
 - **January 2022**:  Excited to begin my PhD with Dr Alban Grastien in the Humanizing Machine Intelligence at the Australian National University.
 - **October 2021**: I was thrilled to be granted my student visa to Australia. I couldn’t wait to travel to Canberra to start my PhD journey once the borders reopened after the COVID lockdowns.
 - **September 2021**: I am excited to receive a signed copy of the book [*THE AI THOUGHT BOOK: Inspirational Thoughts & Quotes on Artificial Intelligence*](https://www.amazon.com.au/dp/B08Z4BWN1X?ref_=mr_referred_us_au_au) from the author [Murat Durmus](https://www.linkedin.com/in/ceosaisoma/).
+- **June 2020**: I was privileged to attend virtually the [MLSS 2020](http://mlss.tuebingen.mpg.de/2020/index.html)
 - **December 2029**: I have attended the [NeurIPS 2019](https://neurips.cc/Conferences/2019) and presented a poster at the [WiML workshop 2019](https://www.wiml.org/wiml-workshop-2019)
 - **August 2019**: I have attended my first international conference in Artificial Intelligence , The [Deep Learning Indaba 2019](https://deeplearningindaba.com/2019/) in Nairobi.
 
