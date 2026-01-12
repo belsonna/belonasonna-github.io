@@ -22,7 +22,7 @@ If you would like to connect, please reach out at:  **bsonna at aimsammi dot org
 - **Belona Sonna**, Alain Momo and Alban Grastien. _Formal Abductive Explanations for Navigating Mental Health Help-Seeking and
 Diversity in Tech Workplaces_. In Proceedings of Empowering Women of Colour in AI-Driven Mental Health Research @ IJCAI-25.
 - **Belona Sonna** and Alban Grastien. 2024. _Can Unfairness in ML Decision-Making Processes be Assessed  Through the Lens of Formal Explanations?_. In Proceedings of XAI 2024 workshop @ IJCAI.
-- Gadosey Pius Kwao, Deborah Dormah Kanubala, and **Belona Sonna**. 2023. _AI Ethics Education for Future African Leaders_. In book: AI Ethics in Higher Education: Insights from Africa and Beyond (pp.87-101). [Link](DOI:10.1007/978-3-031-23035-6_7)
+- Gadosey Pius Kwao, Deborah Dormah Kanubala, and **Belona Sonna**. 2023. _AI Ethics Education for Future African Leaders_. In book: AI Ethics in Higher Education: Insights from Africa and Beyond (pp.87-101). [Link](https://link.springer.com/content/pdf/10.1007/978-3-031-23035-6_7.pdf)
 - Ezinne Nwankwo and **Belona Sonna**. 2019. _Africa's social contract with AI_. XRDS 26, 2 (Winter 2019), 44–48.[Link](https://doi.org/10.1145/3368073).   
 - [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=oqqzmloAAAAJ)
 
