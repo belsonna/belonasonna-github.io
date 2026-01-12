@@ -31,7 +31,7 @@ Diversity in Tech Workplaces_. In Proceedings of Empowering Women of Colour in A
 ## News
 - **August 2025**: I was thrilled to deliver a lightning talk at the Empowering Women of Colour in AI-Driven Mental Health Research @ IJCAI-25
 - **July 2025**: I have served as reviewer for the Trustworthy AI workshop @ Deep Learning Indaba 2025
--**June 2025**: I have served as reviewer for the AIES 2025 Conference
+- **June 2025**: I have served as reviewer for the AIES 2025 Conference
 - **August 2024**: Presenting at the XAI 2024 workshop @ IJCAI
 - **September 2023**: I was priviledged to participate virtually to the CCAIM AI and Machine Learning Summer School
 - **February 2023**: I was featured in the podcast The [Fault in our Algorithms](https://podcasts.apple.com/be/podcast/episode-7-belona-sonna-phd-candidate-at-humanizing/id1614227469?i=1000575262447)
