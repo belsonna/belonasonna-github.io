@@ -17,18 +17,16 @@ If you would like to connect, please reach out at:  **bsonna at aimsammi dot org
 
 ---
 ## Publications
-- **Belona Sonna**, Alban Grastien, Claire Benn. _Beyond Verification: Abductive Explanations for Post-AI Assessment of Privacy Leakage_.  In Proceedings of The Workshop on Post-AI Formal Methods @ AAAI-26
-- **Belona Sonna**, Alban Grastien. _On Explaining Proxy Discrimination and Unfairness in Individual Decisions Made by AI Systems_. In Proceedings of Australasian Joint Conference in Artificial Intelligence 2025 (AJCAI 2025).
+- **Belona Sonna**, Alban Grastien, Claire Benn. _Beyond Verification: Abductive Explanations for Post-AI Assessment of Privacy Leakage_.  In Proceedings of The Workshop on Post-AI Formal Methods @ AAAI-26.[Link](https://arxiv.org/abs/2511.10284v1)
+- **Belona Sonna**, Alban Grastien. _On Explaining Proxy Discrimination and Unfairness in Individual Decisions Made by AI Systems_. In Proceedings of Australasian Joint Conference in Artificial Intelligence 2025 (AJCAI 2025).[Link](https://link.springer.com/chapter/10.1007/978-981-95-4969-6_20)
 - **Belona Sonna**, Alain Momo and Alban Grastien. _Formal Abductive Explanations for Navigating Mental Health Help-Seeking and
 Diversity in Tech Workplaces_. In Proceedings of Empowering Women of Colour in AI-Driven Mental Health Research @ IJCAI-25.
 - **Belona Sonna** and Alban Grastien. 2024. _Can Unfairness in ML Decision-Making Processes be Assessed  Through the Lens of Formal Explanations?_. In Proceedings of XAI 2024 workshop @ IJCAI.
-- Gadosey Pius Kwao, Deborah Dormah Kanubala, and **Belona Sonna**. 2023. _AI Ethics Education for Future African Leaders_. In book: AI Ethics in Higher Education: Insights from Africa and Beyond (pp.87-101). DOI:10.1007/978-3-031-23035-6_7
-- Ezinne Nwankwo and **Belona Sonna**. 2019. _Africa's social contract with AI_. XRDS 26, 2 (Winter 2019), 44–48. https://doi.org/10.1145/3368073.   
+- Gadosey Pius Kwao, Deborah Dormah Kanubala, and **Belona Sonna**. 2023. _AI Ethics Education for Future African Leaders_. In book: AI Ethics in Higher Education: Insights from Africa and Beyond (pp.87-101). [Link](DOI:10.1007/978-3-031-23035-6_7)
+- Ezinne Nwankwo and **Belona Sonna**. 2019. _Africa's social contract with AI_. XRDS 26, 2 (Winter 2019), 44–48.[Link](https://doi.org/10.1145/3368073).   
 - [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=oqqzmloAAAAJ)
 
 ---
-
-
 ## News
 - **August 2025**: I was thrilled to deliver a lightning talk at the Empowering Women of Colour in AI-Driven Mental Health Research @ IJCAI-25
 - **July 2025**: I have served as reviewer for the Trustworthy AI workshop @ Deep Learning Indaba 2025
