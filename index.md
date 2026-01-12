@@ -48,10 +48,9 @@ Diversity in Tech Workplaces_. In Proceedings of Empowering Women of Colour in A
 
 ---
 
-## Contact
-
-- **Email:** belona.sonna@anu.edu.au  
-- **LinkedIn:** [linkedin.com/in/belona-sonna](https://www.linkedin.com/in/belona-sonna/)  
+## Social Media
+- **LinkedIn:** [linkedin.com/in/belona-sonna](https://www.linkedin.com/in/belona-sonna/)
+- **X:**[x.com/BelonaSonna](https://x.com/BelonaSonna)
 - **GitHub:** [Belona Sonna](https://github.com/belsonna/)
 
 ---
