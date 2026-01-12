@@ -50,8 +50,8 @@ Diversity in Tech Workplaces_. In Proceedings of Empowering Women of Colour in A
 
 ## Social Media
 - **LinkedIn:** [Belona Sonna](https://www.linkedin.com/in/belona-sonna/)
-- **X:**[Belona Sonna](https://x.com/BelonaSonna)
-- **Facebook:**[Belona Sonna](https://www.facebook.com/DameIAEthics/)
+- **X:** [Belona Sonna](https://x.com/BelonaSonna)
+- **Facebook:** [Belona Sonna](https://www.facebook.com/DameIAEthics/)
 - **GitHub:** [Belona Sonna](https://github.com/belsonna/)
 
 ---
