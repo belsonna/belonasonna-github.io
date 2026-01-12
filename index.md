@@ -12,7 +12,7 @@ Beyond research, I actively advocate for **expanding access to AI and STEM educa
 
 I have been recognized among the [100 Brilliant Women in AI Ethics™ – 2022](https://womeninaiethics.org/the-list/of-2022/) and the [80 African women advancing Artificial Intelligence in Africa and around the world](https://africanshapers.com/en/80-african-women-advancing-artificial-intelligence-in-africa-and-the-world/).
 
-If you would like to connect, please reach out at:  **bsonna at aimsammi dot org**
+If you would like to connect, please reach out at:  **belona.sonna at anu dot edu dot au** or **belonasonna at gmail dot com**
 
 
 ---
