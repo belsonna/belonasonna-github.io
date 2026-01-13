@@ -1,8 +1,9 @@
 <!-- ## Belona Sonna-->
   
 ## About Me
-
-  I am a PhD student in the [Humanizing Machine Intelligence](https://hmi.anu.edu.au/) group at the **Australian National University**, where my research focuses on the **formal verification of AI ethics principles in AI decision processes**. I am honoured to be supervised by [Dr. Alban Grastien](https://comp.anu.edu.au/people/alban-grastien/), [Prof. Lexing Xie](https://users.cecs.anu.edu.au/~xlx/index.html), and [Dr. Michael Norrish](https://researchportalplus.anu.edu.au/en/persons/michael-norrish).
+<p align="justify">
+  
+I am a PhD student in the [Humanizing Machine Intelligence](https://hmi.anu.edu.au/) group at the **Australian National University**, where my research focuses on the **formal verification of AI ethics principles in AI decision processes**. I am honoured to be supervised by [Dr. Alban Grastien](https://comp.anu.edu.au/people/alban-grastien/), [Prof. Lexing Xie](https://users.cecs.anu.edu.au/~xlx/index.html), and [Dr. Michael Norrish](https://researchportalplus.anu.edu.au/en/persons/michael-norrish).
 
 My work aims to design **assessment frameworks based on formal abductive explanations** to audit **proxy discrimination**, **unfairness**, and **privacy leakage** in AI decisions. I am particularly interested in applying these methods to **healthcare systems**, where ensuring trustworthy AI is critical for real-world impact.
 
@@ -15,15 +16,29 @@ Beyond research, I actively advocate for **expanding access to AI and STEM educa
 I have been recognized among the [100 Brilliant Women in AI Ethics™ – 2022](https://womeninaiethics.org/the-list/of-2022/) and the [80 African women advancing Artificial Intelligence in Africa and around the world](https://africanshapers.com/en/80-african-women-advancing-artificial-intelligence-in-africa-and-the-world/).
 
 Reach out at: belona.sonna@anu.edu.au **or** belonasonna@gmail.com
+</p>
 
 ---
 ## My PhD Research In Depht:
+<p align="justify">
+  
 AI is increasingly being deployed in high-stakes domains, yet it continues to raise important ethical and societal concerns. Many organizations have established ethical criteria to ensure the trustworthiness of AI systems, but in practice, these principles often remain difficult to implement and can even conflict when assessed individually. At the same time, regulatory frameworks like the GDPR highlights the right to explanation as central to building trust in AI, pointing to the critical role of transparency in decision-making. Building on this insight, my PhD investigates the role of transparency not just as a tool to explain individual AI decisions, but as a method for auditing AI systems more broadly. Specifically, my research explores the following questions.
+
+</p>
+
 #### _What type of transparency enable meaningful auditing of AI systems?_
 
 #### _How can this transparency assess proxy discrimination, unfairness?_
+<p align="justify">
+</p>
+
 #### _How can this transparency assess proxy privacy leakage?_
+<p align="justify">
+</p>
+
 #### _How can it improve healthcare decision-making and clinician–AI alignment?_
+<p align="justify">
+</p>
 
 ---
 ## Selected Publications
