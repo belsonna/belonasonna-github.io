@@ -25,6 +25,9 @@ AI is increasingly being deployed in high-stakes domains, yet it continues to ra
 </p>
 
 #### _What type of transparency enable meaningful auditing of AI systems?_
+<p align="justify">
+  
+</p>
 
 #### _How can this transparency assess proxy discrimination, unfairness?_
 <p align="justify">
