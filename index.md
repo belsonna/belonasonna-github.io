@@ -1,4 +1,4 @@
-![Profile photo](profiles.jpg){:style="width:600px;"}
+![Profile photo](profiles.jpg){:style="width:800px;"}
 
 ---
 ## About Me
