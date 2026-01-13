@@ -21,9 +21,6 @@ AI is increasingly being deployed in high-stakes domains, yet it continues to ra
 #### _How can this transparency assess proxy discrimination, unfairness?_
 #### _How can this transparency assess proxy privacy leakage?_
 #### _How can it improve healthcare decision-making and clinician–AI alignment?_
-#### _Audit of proxy discrimination and unfairness_
-#### _Privacy leakage audit_
-#### _Clinician–AI Reasoning Alignment Assessment_
 
 ---
 ## Selected Publications
