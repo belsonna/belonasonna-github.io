@@ -25,18 +25,12 @@ AI is increasingly being deployed in high-stakes domains, yet it continues to ra
 </p>
 
 #### _What type of transparency enable meaningful auditing of AI systems?_
-<p align="justify">
 
 Transparency in AI mainly refers to the explanations used to account for model outputs, which can be characterized by their scope (local vs. global) and their level of rigor (non-formal vs. formal). In this work, we focus on formal explanations, instantiated through abductive and contrastive reasoning. In particular, formal abductive explanations, which answer why a decision was made by identifying its justifying conditions, are well suited for diagnostic analysis and therefore form the core explanatory mechanism of our auditing frameworks. This choice is inspired by influential works: [[Ref1](https://link.springer.com/chapter/10.1007/978-3-030-77091-4_21) and [Ref2](https://cacm.acm.org/research/explainability-is-not-a-game/)]
 
-</p>
-
 #### _How can this transparency assess proxy discrimination, unfairness?_
-<p align="justify">
   
 When discussing unfairness and proxy discrimination, the focus is on how certain protected features influence a model’s decisions. Using abductive explanations, we define proxy discrimination as the model’s ability to provide explanations that apply only to individuals within the same subgroup, that is, those sharing the same value of a given protected attribute. For unfairness, we introduce the concept of aptitude, derived from abductive explanations, which is a property independent of subgroup membership and ensures that fairness is achieved when all individuals satisfying the same aptitude receive the same model outcome. This work builds on key contributions in the literatures [[ref3](https://arxiv.org/abs/2002.09284) and [ref 4](https://dl.acm.org/doi/abs/10.1609/aaai.v37i4.25528)], and our results are presented in the published paper[[ref6](https://link.springer.com/chapter/10.1007/978-981-95-4969-6_20#Bib1)].
-
-</p>
 
 #### _How can this transparency assess proxy privacy leakage?_
 <p align="justify">
