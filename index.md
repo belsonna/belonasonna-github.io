@@ -1,4 +1,5 @@
 ![Profile photo](profiles.jpg){:style="width:600px;"}
+---
 ## About Me
 I am a PhD student in the [Humanizing Machine Intelligence](https://hmi.anu.edu.au/) group at the **Australian National University**, where my research focuses on the **formal verification of AI ethics principles in AI decision processes**. I am honoured to be supervised by [Dr. Alban Grastien](https://comp.anu.edu.au/people/alban-grastien/), [Prof. Lexing Xie](https://users.cecs.anu.edu.au/~xlx/index.html), and [Dr. Michael Norrish](https://researchportalplus.anu.edu.au/en/persons/michael-norrish).
 
@@ -13,7 +14,7 @@ Beyond research, I actively advocate for **expanding access to AI and STEM educa
 I have been recognized among the [100 Brilliant Women in AI Ethics™ – 2022](https://womeninaiethics.org/the-list/of-2022/) and the [80 African women advancing Artificial Intelligence in Africa and around the world](https://africanshapers.com/en/80-african-women-advancing-artificial-intelligence-in-africa-and-the-world/).
 
 Reach out at: belona.sonna@anu.edu.au **or** belonasonna@gmail.com
-
+---
 ## My PhD Research In Depht:
 ### _Context_
 ### _Audit of proxy discrimination and unfairness_
