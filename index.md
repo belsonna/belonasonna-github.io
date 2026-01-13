@@ -1,5 +1,4 @@
 <!-- ## Belona Sonna-->
-<p align="justify">
   
 ## About Me
 
@@ -65,4 +64,3 @@ Diversity in Tech Workplaces_. In Proceedings of Empowering Women of Colour in A
 - **GitHub:** [Belona Sonna](https://github.com/belsonna/)
 
 ---
-</p>
