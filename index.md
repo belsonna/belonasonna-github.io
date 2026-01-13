@@ -32,8 +32,6 @@ When discussing unfairness and proxy discrimination, the focus is on how certain
 Privacy leakage is fundamentally about the existence of individuals whose sensitive information should not be revealed by an AI model. Individuals can be divided into those with sensitive information (sensitive individuals) and those without. Using abductive explanations, we define privacy preservation for a sensitive individual as the AI model’s ability to provide an explanation that also applies to at least one non-sensitive individual. When such an explanation exists, the model is said to guarantee a shielder for that sensitive individual. Assessing privacy leakage in an AI model therefore involves checking whether every sensitive individual admits a shielder, ensuring that sensitive information is not inadvertently exposed [[Workshop Paper](https://arxiv.org/abs/2511.10284v1)]. Furthermore, we propose a methodology to repair privacy leakage within the model, guaranteeing that any sensitive individual admits a shielder [submitted under review].
 
 #### _How can it improve healthcare decision-making and clinician–AI alignment?_
-<p align="justify">
-</p>
 
 ---
 ## Selected Publications
