@@ -15,10 +15,10 @@ I have been recognized among the [100 Brilliant Women in AI Ethics™ – 2022](
 Reach out at: belona.sonna@anu.edu.au **or** belonasonna@gmail.com
 
 ## My PhD Research In Depht:
-### Context
-### Audit of proxy discrimination and unfairness
-### Privacy leakage audit
-### Clinician–AI Reasoning Alignment Assessment
+### _Context_
+### _Audit of proxy discrimination and unfairness_
+### _Privacy leakage audit_
+### _Clinician–AI Reasoning Alignment Assessment_
 
 ---
 ## Selected Publications
