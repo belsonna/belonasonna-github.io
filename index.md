@@ -16,7 +16,7 @@ Reach out at: belona.sonna@anu.edu.au **or** belonasonna@gmail.com
 
 ---
 ## My PhD Research In Depht:
-#### _Context_
+#### _Research Questions_
 AI is increasingly being deployed in high-stakes domains, yet it continues to raise important ethical and societal concerns. Many organizations have established ethical criteria to ensure the trustworthiness of AI systems, but in practice, these principles often remain difficult to implement and can even conflict when assessed individually. At the same time, regulatory frameworks like the GDPR highlights the right to explanation as central to building trust in AI, pointing to the critical role of transparency in decision-making. Building on this insight, my PhD investigates the role of transparency not just as a tool to explain individual AI decisions, but as a method for auditing AI systems more broadly. Specifically, my research explores:
 - What types of transparency enable meaningful auditing of AI systems?
 - How this transparency can be used to investigate specific ethical principles, including proxy discrimination, unfairness, and privacy leakage?
