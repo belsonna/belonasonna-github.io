@@ -16,10 +16,10 @@ Reach out at: belona.sonna@anu.edu.au **or** belonasonna@gmail.com
 
 ---
 ## My PhD Research In Depht:
-### _Context_
-### _Audit of proxy discrimination and unfairness_
-### _Privacy leakage audit_
-### _Clinician–AI Reasoning Alignment Assessment_
+#### _Context_
+#### _Audit of proxy discrimination and unfairness_
+#### _Privacy leakage audit_
+#### _Clinician–AI Reasoning Alignment Assessment_
 
 ---
 ## Selected Publications
