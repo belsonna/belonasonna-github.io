@@ -26,7 +26,7 @@ AI is increasingly being deployed in high-stakes domains, yet it continues to ra
 
 #### _What type of transparency enable meaningful auditing of AI systems?_
 
-Transparency in AI mainly refers to the explanations used to account for model outputs, which can be characterized by their scope (local vs. global) and their level of rigor (non-formal vs. formal). In this work, we focus on formal explanations, instantiated through abductive and contrastive reasoning. In particular, formal abductive explanations, which answer why a decision was made by identifying its justifying conditions, are well suited for diagnostic analysis and therefore form the core explanatory mechanism of our auditing frameworks. This choice is primarily inspired by these influential works: [[Ref1](https://link.springer.com/chapter/10.1007/978-3-030-77091-4_21) and [Ref2](https://cacm.acm.org/research/explainability-is-not-a-game/)]
+Transparency in AI mainly refers to the explanations used to account for model outputs, which can be characterized by their scope (local vs. global) and their level of rigor (non-formal vs. formal). In this work, we focus on formal explanations, instantiated through abductive and contrastive reasoning. In particular, formal abductive explanations, which answer why a decision was made by identifying its justifying conditions, are well suited for diagnostic analysis and therefore form the core explanatory mechanism of our auditing frameworks. This choice is inspired by influential works: [[Ref1](https://link.springer.com/chapter/10.1007/978-3-030-77091-4_21) and [Ref2](https://cacm.acm.org/research/explainability-is-not-a-game/)]
 
 #### _How can this transparency assess proxy discrimination, unfairness?_
 <p align="justify">
