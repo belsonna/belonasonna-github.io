@@ -28,7 +28,7 @@ Transparency in AI mainly refers to the explanations used to account for model o
   
 When discussing unfairness and proxy discrimination, the focus is on how certain protected features influence a model’s decisions. Using abductive explanations, we define proxy discrimination as the model’s ability to provide explanations that apply only to individuals within the same subgroup, that is, those sharing the same value of a given protected attribute. For unfairness, we introduce the concept of aptitude, derived from abductive explanations, which is a property independent of subgroup membership and ensures that fairness is achieved when all individuals satisfying the same aptitude receive the same model outcome.[[Paper](https://link.springer.com/chapter/10.1007/978-981-95-4969-6_20#Bib1)].
 
-#### _How can this transparency assess proxy privacy leakage?_
+#### _How can this transparency assess privacy leakage?_
 <p align="justify">
 </p>
 
