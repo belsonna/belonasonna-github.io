@@ -10,7 +10,7 @@ Beyond research, I actively advocate for **expanding access to AI and STEM educa
 
 I have been recognized among the [Top 40 under 40 African AI Achievers](https://www.linkedin.com/posts/society-for-ai_ai40under40-africanaisummit-activity-7395416482526142464-zOql?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAB2_j58BZ0lhOJB8dtUXWivqrgWvl2Vcdqo), the  [100 Brilliant Women in AI Ethics™ – 2022](https://womeninaiethics.org/the-list/of-2022/) and the [80 African women advancing Artificial Intelligence in Africa and around the world](https://africanshapers.com/en/80-african-women-advancing-artificial-intelligence-in-africa-and-the-world/).
 
-Reach out at: belona.sonna@anu.edu.au **or** belonasonna@gmail.com
+
 
 ---
 
@@ -18,7 +18,7 @@ Reach out at: belona.sonna@anu.edu.au **or** belonasonna@gmail.com
 
 - [PhD Research](pages/phd.md)
 - [Publications](pages/publications.md)
-- [Projects](pages/CV.md)
+- [CV](pages/CV.md)
 - [Contact](pages/contact.md)
 
   
