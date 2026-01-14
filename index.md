@@ -13,26 +13,47 @@ I have been recognized among the [Top 40 under 40 African AI Achievers](https://
 Reach out at: belona.sonna@anu.edu.au **or** belonasonna@gmail.com
 
 ---
-## My PhD Research In Depht:
-<p align="justify">
-  
-AI is increasingly being deployed in high-stakes domains, yet it continues to raise important ethical and societal concerns. Many organizations have established ethical criteria to ensure the trustworthiness of AI systems, but in practice, these principles often remain difficult to implement and can even conflict when assessed individually. At the same time, regulatory frameworks like the GDPR highlights the right to explanation as central to building trust in AI, pointing to the critical role of transparency in decision-making. Building on this insight, my PhD investigates the role of transparency not just as a tool to explain individual AI decisions, but as a method for auditing AI systems more broadly. Specifically, my research explores the following questions.
+## My PhD Research in Depth
 
+<p align="justify">
+AI is increasingly deployed in high-stakes domains, yet it continues to raise significant <strong>ethical and societal concerns</strong>. While many organizations have defined ethical principles to ensure the <strong>trustworthiness</strong> of AI systems, these principles often remain difficult to operationalize and may even conflict when assessed independently. In parallel, regulatory frameworks such as the <strong>GDPR highlight the right to explanation</strong> as central to building trust in AI, emphasizing the importance of transparency in decision-making. Building on this insight, my PhD investigates <strong>transparency not merely as a means to explain individual AI decisions, but as a principled tool for auditing AI systems as a whole</strong>. In particular, my research addresses the following questions.
 </p>
 
-#### _What type of transparency enable meaningful auditing of AI systems?_
+---
 
-Transparency in AI mainly refers to the explanations used to account for model outputs, which can be characterized by their scope (local vs. global) and their level of rigor (non-formal vs. formal). In this work, we focus on formal explanations, instantiated through abductive and contrastive reasoning. In particular, formal abductive explanations, which answer why a decision was made by identifying its justifying conditions, are well suited for diagnostic analysis and therefore form the core explanatory mechanism of our auditing frameworks. This choice is inspired by influential works: [[Ref1](https://link.springer.com/chapter/10.1007/978-3-030-77091-4_21) and [Ref2](https://cacm.acm.org/research/explainability-is-not-a-game/)]
+### _What type of transparency enables meaningful auditing of AI systems?_
 
-#### _How can this transparency assess proxy discrimination, unfairness?_
-  
-When discussing unfairness and proxy discrimination, the focus is on how certain protected features influence a model’s decisions. Using abductive explanations, we define proxy discrimination as the model’s ability to provide explanations that apply only to individuals within the same subgroup, that is, those sharing the same value of a given protected attribute. For unfairness, we introduce the concept of aptitude, derived from abductive explanations, which is a property independent of subgroup membership and ensures that fairness is achieved when all individuals satisfying the same aptitude receive the same model outcome. [[Article](https://link.springer.com/chapter/10.1007/978-981-95-4969-6_20#Bib1)].
+<p align="justify">
+Transparency in AI typically refers to the <strong>explanations used to account for model outputs</strong>, which can be characterized by their scope (local vs. global) and their level of rigor (non-formal vs. formal). In this work, we focus on <strong>formal explanations</strong>, instantiated through <strong>abductive and contrastive reasoning</strong>. In particular, <strong>formal abductive explanations</strong>, which answer <em>why a decision was made</em> by identifying its justifying conditions, are well suited for <strong>diagnostic analysis</strong> and therefore form the core explanatory mechanism of our auditing frameworks. This choice is inspired by influential works in explainable AI and reasoning
+[[Ref1](https://link.springer.com/chapter/10.1007/978-3-030-77091-4_21), [Ref2](https://cacm.acm.org/research/explainability-is-not-a-game/)].
+</p>
 
-#### _How can this transparency assess privacy leakage?_
-Privacy leakage is fundamentally about the existence of individuals whose sensitive information should not be revealed by an AI model. Individuals can be divided into those with sensitive information (sensitive individuals) and those without. Using abductive explanations, we define privacy preservation for a sensitive individual as the AI model’s ability to provide an explanation that also applies to at least one non-sensitive individual. When such an explanation exists, the model is said to guarantee a shielder for that sensitive individual. Assessing privacy leakage in an AI model therefore involves checking whether every sensitive individual admits a shielder, ensuring that sensitive information is not inadvertently exposed [[Workshop Paper](https://arxiv.org/abs/2511.10284v1)]. Furthermore, we propose a methodology to repair privacy leakage within the model, guaranteeing that any sensitive individual admits a shielder [submitted under review].
+---
 
-#### _How can it improve healthcare decision-making and clinician–AI alignment?_
-Although AI has shown strong potential in healthcare decision-making, sometimes even surpassing clinicians in diagnosis, its integration into clinical practice remains limited. A key challenge is the lack of trust in AI reasoning, as clinicians are often uncertain whether model decisions rely on meaningful clinical facts. At the same time, AI systems may identify diagnostic patterns not yet recognized by clinicians, allowing them to justify the same diagnosis using different features learned from data. While clinicians typically rely on a specific set of clinical facts for diagnosis, AI models may provide alternative explanations for the same outcome. Since abductive explanations reveal model reasoning by identifying all formal hypotheses supporting a decision, we investigate how they can be used to bridge clinical reasoning and AI reasoning. We show that an AI model’s diagnosis is aligned with clinical reasoning if it provides at least one explanation that includes a clinically relevant fact [submitted under review].
+### _How can this transparency assess proxy discrimination and unfairness?_
+
+<p align="justify">
+When discussing <strong>unfairness</strong> and <strong>proxy discrimination</strong>, the focus is on how certain <strong>protected features</strong> influence a model’s decisions. Using <strong>abductive explanations</strong>, we define <strong>proxy discrimination</strong> as the model’s ability to provide explanations that apply only to individuals within the same subgroup, that is, individuals sharing the same value of a protected attribute. For <strong>unfairness</strong>, we introduce the concept of <strong>aptitude</strong>, derived from abductive explanations, which is a property <strong>independent of subgroup membership</strong>. Fairness is ensured when all individuals satisfying the same aptitude receive the same model outcome
+[[Article](https://link.springer.com/chapter/10.1007/978-981-95-4969-6_20#Bib1)].
+</p>
+
+---
+
+### _How can this transparency assess privacy leakage?_
+
+<p align="justify">
+Privacy leakage concerns the <strong>existence of individuals whose sensitive information should not be revealed</strong> by an AI model. Individuals can be divided into those with sensitive information (sensitive individuals) and those without. Using <strong>abductive explanations</strong>, we define <strong>privacy preservation for a sensitive individual</strong> as the AI model’s ability to provide an explanation that also applies to at least one non-sensitive individual. When such an explanation exists, the model is said to <strong>guarantee a shielder</strong> for that sensitive individual. Assessing privacy leakage therefore amounts to checking whether every sensitive individual admits a shielder, ensuring that sensitive information is not inadvertently exposed
+[[Workshop Paper](https://arxiv.org/abs/2511.10284v1)]. Furthermore, we propose a <strong>repair methodology</strong> that enforces this property, guaranteeing that every sensitive individual admits a shielder <em>[submitted under review]</em>.
+</p>
+
+---
+
+### _How can this transparency improve healthcare decision-making and clinician–AI alignment?_
+
+<p align="justify">
+Although AI has demonstrated strong potential in <strong>healthcare decision-making</strong>, sometimes surpassing clinicians in diagnosis, its integration into clinical practice remains limited. A key challenge is the <strong>lack of trust in AI reasoning</strong>, as clinicians are often uncertain whether model decisions rely on <strong>clinically meaningful facts</strong>. While clinicians typically base diagnoses on specific clinical evidence, AI systems may justify the same diagnosis using alternative patterns learned from data. Since <strong>abductive explanations reveal model reasoning by identifying all formal hypotheses supporting a decision</strong>, we investigate how they can be used to <strong>bridge clinical reasoning and AI reasoning</strong>. We show that an AI model’s diagnosis is <strong>aligned with clinical reasoning</strong> if it provides at least one explanation that includes a clinically relevant fact <em>[submitted under review]</em>.
+</p>
+
 
 ---
 ## Selected Publications
