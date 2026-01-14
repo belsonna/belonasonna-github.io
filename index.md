@@ -18,7 +18,7 @@ Reach out at: belona.sonna@anu.edu.au **or** belonasonna@gmail.com
 
 - [PhD Research](pages/phd.md)
 - [Publications](pages/publications.md)
-- [Projects](pages/projects.md)
+- [Projects](pages/CV.md)
 - [Contact](pages/contact.md)
 
   
