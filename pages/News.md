@@ -1,0 +1,21 @@
+---
+## News
+- **August 2025**: I was thrilled to deliver a lightning talk at the Empowering Women of Colour in AI-Driven Mental Health Research @ IJCAI-25
+- **July 2025**: I have served as reviewer for the Trustworthy AI workshop @ Deep Learning Indaba 2025
+- **June 2025**: I have served as reviewer for the AIES 2025 Conference
+- **August 2024**: Presenting at the XAI 2024 workshop @ IJCAI
+- **September 2023**: I was priviledged to participate virtually to the CCAIM AI and Machine Learning Summer School
+- **February 2023**: I was featured in the podcast The [Fault in our Algorithms](https://podcasts.apple.com/be/podcast/episode-7-belona-sonna-phd-candidate-at-humanizing/id1614227469?i=1000575262447)
+- **July 2022**: I have attended the [inSTEM](https://archive.fleet.org.au/blog/events/instem-conference-2022/) conference in Brisbane
+- **March 2022**: I am thrilled to serve as a panelist in the responsible AI project with [MIT Sloan Management Review](https://sloanreview.mit.edu/). My views are listed [here](https://sloanreview.mit.edu/panelist/belona-sonna/)
+- **February 2022**: Excited to share my interview about my experience with [wordsthatcount](https://wordsthatcount.org/my-journey-into-artificial-intelligence-ai-belona-sonna/)
+- **February 2022**: Excited to start tutoring the statistical Machine Learning course.
+- **January 2022**:  Excited to begin my PhD with Dr Alban Grastien in the Humanizing Machine Intelligence at the Australian National University.
+- **October 2021**: I was thrilled to be granted my student visa to Australia. I couldn’t wait to travel to Canberra to start my PhD journey once the borders reopened after the COVID lockdowns.
+- **September 2021**: I am excited to receive a signed copy of the book [*THE AI THOUGHT BOOK: Inspirational Thoughts & Quotes on Artificial Intelligence*](https://www.amazon.com.au/dp/B08Z4BWN1X?ref_=mr_referred_us_au_au) from the author [Murat Durmus](https://www.linkedin.com/in/ceosaisoma/).
+- **June 2020**: I was privileged to attend virtually the [MLSS 2020](http://mlss.tuebingen.mpg.de/2020/index.html)
+- **December 2029**: I have attended the [NeurIPS 2019](https://neurips.cc/Conferences/2019) and presented a poster at the [WiML workshop 2019](https://www.wiml.org/wiml-workshop-2019)
+- **September 2019**: I have served as reviewer for the WiML Workshop NeuriPS 2019
+- **August 2019**: I have attended my first international conference in Artificial Intelligence , The [Deep Learning Indaba 2019](https://deeplearningindaba.com/2019/) in Nairobi.
+
+---
