@@ -16,9 +16,8 @@ I have been recognized among the [Top 40 under 40 African AI Achievers](https://
 
 - [PhD Research](pages/Phd.md)
 - [Publications](pages/Publications.md)
-- [CV](pages/CV.md)
 - [News](pages/News.md)
-- [Contact](pages/Contact.md)
+- [CV & Contact](pages/Contact.md)
 
 ---
 
