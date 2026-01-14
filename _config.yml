@@ -2,3 +2,5 @@ title: Belona Sonna
 description: AI PhD student at the Australian National University
 theme: jekyll-theme-cayman
 markdown: kramdown
+github:
+  is_project_page: false
