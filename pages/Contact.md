@@ -14,7 +14,8 @@ Belona is
 ---
 
 ### Contact Me
-You can Access my CV [[here]()]
+My CV is accessible [[here]()]
+
 Reach out at: belona.sonna@anu.edu.au **or** belonasonna@gmail.com
 
 ---
