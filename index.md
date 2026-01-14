@@ -23,28 +23,21 @@ AI is increasingly deployed in high-stakes domains, yet it continues to raise si
 
 ### _What type of transparency enables meaningful auditing of AI systems?_
 
-<p align="justify">
 Transparency in AI typically refers to the <strong>explanations used to account for model outputs</strong>, which can be characterized by their scope (local vs. global) and their level of rigor (non-formal vs. formal). In this work, we focus on <strong>formal explanations</strong>, instantiated through <strong>abductive and contrastive reasoning</strong>. In particular, <strong>formal abductive explanations</strong>, which answer <em>why a decision was made</em> by identifying its justifying conditions, are well suited for <strong>diagnostic analysis</strong> and therefore form the core explanatory mechanism of our auditing frameworks. This choice is inspired by influential works in explainable AI and reasoning
 [[Ref1](https://link.springer.com/chapter/10.1007/978-3-030-77091-4_21), [Ref2](https://cacm.acm.org/research/explainability-is-not-a-game/)].
-</p>
 
 ---
 
 ### _How can this transparency assess proxy discrimination and unfairness?_
-
-<p align="justify">
 When discussing <strong>unfairness</strong> and <strong>proxy discrimination</strong>, the focus is on how certain <strong>protected features</strong> influence a model’s decisions. Using <strong>abductive explanations</strong>, we define <strong>proxy discrimination</strong> as the model’s ability to provide explanations that apply only to individuals within the same subgroup, that is, individuals sharing the same value of a protected attribute. For <strong>unfairness</strong>, we introduce the concept of <strong>aptitude</strong>, derived from abductive explanations, which is a property <strong>independent of subgroup membership</strong>. Fairness is ensured when all individuals satisfying the same aptitude receive the same model outcome
 [[Article](https://link.springer.com/chapter/10.1007/978-981-95-4969-6_20#Bib1)].
-</p>
 
 ---
 
 ### _How can this transparency assess privacy leakage?_
 
-<p align="justify">
 Privacy leakage concerns the <strong>existence of individuals whose sensitive information should not be revealed</strong> by an AI model. Individuals can be divided into those with sensitive information (sensitive individuals) and those without. Using <strong>abductive explanations</strong>, we define <strong>privacy preservation for a sensitive individual</strong> as the AI model’s ability to provide an explanation that also applies to at least one non-sensitive individual. When such an explanation exists, the model is said to <strong>guarantee a shielder</strong> for that sensitive individual. Assessing privacy leakage therefore amounts to checking whether every sensitive individual admits a shielder, ensuring that sensitive information is not inadvertently exposed
-[[Workshop Paper](https://arxiv.org/abs/2511.10284v1)]. Furthermore, we propose a <strong>repair methodology</strong> that enforces this property, guaranteeing that every sensitive individual admits a shielder <em>[submitted under review]</em>.
-</p>
+[[Workshop Paper](https://arxiv.org/abs/2511.10284v1)]. Furthermore, we propose a <strong>repair methodology</strong> that enforces this property, guaranteeing that every sensitive individual admits a shielder <em>[submitted under review]</em>
 
 ---
 
