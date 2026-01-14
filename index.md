@@ -13,6 +13,18 @@ I have been recognized among the [Top 40 under 40 African AI Achievers](https://
 Reach out at: belona.sonna@anu.edu.au **or** belonasonna@gmail.com
 
 ---
+
+## Navigation
+
+- [PhD Research](pages/phd.md)
+- [Publications](pages/publications.md)
+- [Projects](pages/projects.md)
+- [Contact](pages/contact.md)
+
+  
+---
+
+
 ## My PhD Research in Depth
 
 <p align="justify">
