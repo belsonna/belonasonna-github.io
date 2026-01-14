@@ -1,5 +1,10 @@
----
+
 ## News
+
+[← Back to Home](../index.md)
+
+---
+
 - **August 2025**: I was thrilled to deliver a lightning talk at the Empowering Women of Colour in AI-Driven Mental Health Research @ IJCAI-25
 - **July 2025**: I have served as reviewer for the Trustworthy AI workshop @ Deep Learning Indaba 2025
 - **June 2025**: I have served as reviewer for the AIES 2025 Conference
