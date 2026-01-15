@@ -1,7 +1,7 @@
 <!-- ## Belona Sonna-->
   
 ## About Me
-I am a PhD Candidate in the [Humanizing Machine Intelligence](https://hmi.anu.edu.au/) group at the **Australian National University**, where my research focuses on the **formal verification of AI ethics principles in AI decision processes**. I am honoured to be supervised by [Dr. Alban Grastien](https://comp.anu.edu.au/people/alban-grastien/), [Prof. Lexing Xie](https://users.cecs.anu.edu.au/~xlx/index.html), and [Dr. Michael Norrish](https://researchportalplus.anu.edu.au/en/persons/michael-norrish).
+I am a PhD Candidate in the [Humanizing Machine Intelligence](https://hmi.anu.edu.au/) group at the **Australian National University**, where my research focuses on the use of **abductive explanations as a tool for formal verification of AI ethics principles in AI decision processes**. I am honoured to be supervised by [Dr. Alban Grastien](https://comp.anu.edu.au/people/alban-grastien/), [Prof. Lexing Xie](https://users.cecs.anu.edu.au/~xlx/index.html), and [Dr. Michael Norrish](https://researchportalplus.anu.edu.au/en/persons/michael-norrish).
 
 My current work aims to design **assessment frameworks based on formal abductive explanations** to audit **proxy discrimination**, **unfairness**, and **privacy leakage** in AI decisions. I am particularly interested in applying these methods to **healthcare systems**, where ensuring trustworthy AI is critical for real-world impact.
 
