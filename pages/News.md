@@ -21,9 +21,12 @@
 - **August 2019**: I have attended my first international conference in Artificial Intelligence , The [Deep Learning Indaba 2019](https://deeplearningindaba.com/2019/) in Nairobi.
 
 ---
+
 ## Navigation
-- [Home](../index.md)
+
 - [PhD Research](pages/Phd.md)
 - [Publications](pages/Publications.md)
+- [News](pages/News.md)
 - [CV & Contact](pages/Contact.md)
 
+---
