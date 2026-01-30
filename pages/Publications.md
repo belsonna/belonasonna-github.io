@@ -1,6 +1,5 @@
 # Publications
 ---
-
 - **Belona Sonna**, Alban Grastien, Claire Benn. _Beyond Verification: Abductive Explanations for Post-AI Assessment of Privacy Leakage_.  In Proceedings of The Workshop on Post-AI Formal Methods @ AAAI-26.[[Link](https://arxiv.org/abs/2511.10284v1)]
 - **Belona Sonna**, Alban Grastien. _On Explaining Proxy Discrimination and Unfairness in Individual Decisions Made by AI Systems_. In Proceedings of Australasian Joint Conference in Artificial Intelligence 2025 (AJCAI 2025). [[Link](https://link.springer.com/chapter/10.1007/978-981-95-4969-6_20), [Slides](https://drive.google.com/file/d/1Ndl_tXJSpZhdnuz-j0kh7wDBzlcnwsd-/view?usp=drive_link), [Poster](https://drive.google.com/file/d/1jAZRdhunYmtNy9JjWEoOcE4gTTReetKt/view?usp=drive_link)]
 - **Belona Sonna**, Alain Momo and Alban Grastien. _Formal Abductive Explanations for Navigating Mental Health Help-Seeking and
