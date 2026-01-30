@@ -34,8 +34,12 @@ Although AI has demonstrated strong potential in <strong>healthcare decision-mak
 </p>
 
 ---
+
 ## Navigation
-- [Home](../index.md)
+
+- [PhD Research](pages/Phd.md)
 - [Publications](pages/Publications.md)
 - [News](pages/News.md)
 - [CV & Contact](pages/Contact.md)
+
+---
