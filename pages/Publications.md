@@ -12,7 +12,7 @@ Diversity in Tech Workplaces_. In Proceedings of Empowering Women of Colour in A
 
 
 ## Navigation
-- [Back to Home](../index.md)
+- [Home](../index.md)
 - [PhD Research](pages/Phd.md)
 - [News](pages/News.md)
 - [CV & Contact](pages/Contact.md)
