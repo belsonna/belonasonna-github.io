@@ -1,8 +1,5 @@
 
 ## News
-
-[← Back to Home](../index.md)
-
 ---
 
 - **August 2025**: I was thrilled to deliver a lightning talk at the Empowering Women of Colour in AI-Driven Mental Health Research @ IJCAI-25
@@ -25,7 +22,7 @@
 
 ---
 ## Navigation
-- [Back to Home](../index.md)
+- [Home](../index.md)
 - [PhD Research](pages/Phd.md)
 - [Publications](pages/Publications.md)
 - [CV & Contact](pages/Contact.md)
