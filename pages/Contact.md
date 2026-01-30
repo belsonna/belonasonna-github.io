@@ -3,7 +3,7 @@
 ### Academic Bio
 <p align="justify">
   
-Belona is a PhD Candidate at the Australian National University. My research lies at the intersection of formal methods, explainable AI, and AI ethics, focusing on the formal verification of ethical properties in AI-based decision-making. I develop abductive explanation–based frameworks to audit proxy discrimination, unfairness, and privacy leakage, with particular relevance to high-stakes healthcare systems.
+Belona is a PhD Candidate at the Australian National University. My research lies at the intersection of **formal methods, explainable AI, and AI ethics**, focusing on the **formal verification of ethical properties in AI-based decision-making**. I develop abductive explanation–based frameworks to audit proxy discrimination, unfairness, and privacy leakage, with particular relevance to high-stakes healthcare systems.
 
 </p>
 
