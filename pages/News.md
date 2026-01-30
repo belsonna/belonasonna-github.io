@@ -25,8 +25,8 @@
 ## Navigation
 
 - [Home](../index.md)
-- [PhD Research](pages/Phd.md)
-- [Publications](pages/Publications.md)
-- [CV & Contact](pages/Contact.md)
+- [PhD Research](Phd.md)
+- [Publications](Publications.md)
+- [CV & Contact](Contact.md)
 
 ---
