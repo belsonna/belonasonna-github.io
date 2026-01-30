@@ -1,6 +1,4 @@
 ## CV & Contact
-[← Back to Home](../index.md)
-
 ---
 ### Academic Bio
 <p align="justify">
@@ -34,5 +32,10 @@ Reach out at: belona.sonna@anu.edu.au **or** belonasonna@gmail.com
 
 
 ---
+## Navigation
+- [Back to Home](../index.md)
+- [PhD Research](pages/Phd.md)
+- [News](pages/News.md)
+- [Publications](pages/Publications.md)
 
 
