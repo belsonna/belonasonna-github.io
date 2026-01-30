@@ -1,5 +1,5 @@
 <!-- ## Belona Sonna-->
-  
+
 ## About Me
 I am a PhD Candidate at the **Australian National University**, where my research focuses on the use of **abductive explanations as a tool for formal verification of AI ethics principles in AI decision processes**. I am honoured to be supervised by [Dr. Alban Grastien](https://comp.anu.edu.au/people/alban-grastien/), [Prof. Lexing Xie](https://users.cecs.anu.edu.au/~xlx/index.html), and [Prof. Michael Norrish](https://researchportalplus.anu.edu.au/en/persons/michael-norrish).
 
