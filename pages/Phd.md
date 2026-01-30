@@ -1,9 +1,4 @@
 # My PhD in Depth
-- [Back to Home](../index.md)
-- [Publications](pages/Publications.md)
-- [News](pages/News.md)
-- [CV & Contact](pages/Contact.md)
-
 ---
 
 <p align="justify">
@@ -37,6 +32,9 @@ Privacy leakage concerns the <strong>existence of individuals whose sensitive in
 <p align="justify">
 Although AI has demonstrated strong potential in <strong>healthcare decision-making</strong>, sometimes surpassing clinicians in diagnosis, its integration into clinical practice remains limited. A key challenge is the <strong>lack of trust in AI reasoning</strong>, as clinicians are often uncertain whether model decisions rely on <strong>clinically meaningful facts</strong>. While clinicians typically base diagnoses on specific clinical evidence, AI systems may justify the same diagnosis using alternative patterns learned from data. Since <strong>abductive explanations reveal model reasoning by identifying all formal hypotheses supporting a decision</strong>, we investigate how they can be used to <strong>bridge clinical reasoning and AI reasoning</strong>. We show that an AI model’s diagnosis is <strong>aligned with clinical reasoning</strong> if it provides at least one explanation that includes a clinically relevant fact <em>[submitted under review]</em>.
 </p>
-
-
 ---
+## Navigation
+- [Home](../index.md)
+- [Publications](pages/Publications.md)
+- [News](pages/News.md)
+- [CV & Contact](pages/Contact.md)
