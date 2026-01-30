@@ -3,7 +3,7 @@
 ### Academic Bio
 <p align="justify">
   
-Belona is a PhD student at the Australian National University. My research lies at the intersection of formal methods, explainable AI, and AI ethics, focusing on the formal verification of ethical properties in AI-based decision-making. I develop abductive explanation–based frameworks to audit proxy discrimination, unfairness, and privacy leakage, with particular relevance to high-stakes healthcare systems.
+Belona is a PhD Candidate at the Australian National University. My research lies at the intersection of formal methods, explainable AI, and AI ethics, focusing on the formal verification of ethical properties in AI-based decision-making. I develop abductive explanation–based frameworks to audit proxy discrimination, unfairness, and privacy leakage, with particular relevance to high-stakes healthcare systems.
 
 </p>
 
@@ -12,7 +12,7 @@ Belona is a PhD student at the Australian National University. My research lies 
 ### General Bio
 <p align="justify">
   
-Belona is a PhD student at the Australian National University, where my research focuses on formal methods, explainable AI, and AI ethics. I develop frameworks based on abductive explanations to audit proxy discrimination, unfairness, and privacy leakage in AI decision-making, with applications in high-stakes domains such as healthcare. Beyond research, I am the Founder and Co-lead of Bel’s AI Initiative, which delivers bilingual (English–French) AI outreach programs in Central Africa, focusing on rural and underrepresented communities. My work has been recognized among the Top 40 Under 40 African AI Achievers, 100 Brilliant Women in AI Ethics™ (2022), and 80 African Women Advancing Artificial Intelligence in Africa and Worldwide.
+Belona is a PhD Candidate at the Australian National University, where my research focuses on **formal methods, explainable AI, and AI ethics**. I develop frameworks based on **abductive explanations** to audit proxy discrimination, unfairness, and privacy leakage in AI decision-making, with applications in high-stakes domains such as healthcare. Beyond research, I am the **Founder and Co-lead of Bel’s AI Initiative**, which delivers bilingual (English–French) AI outreach programs in Central Africa, focusing on rural and underrepresented communities. My work has been recognized among the Top **40 Under 40 African AI Achievers, 100 Brilliant Women in AI Ethics™ (2022), and 80 African Women Advancing Artificial Intelligence in Africa and Worldwide**.
 </p>
 
 
