@@ -1,7 +1,5 @@
 # Publications
 
-
-## Navigation
 - [Back to Home](../index.md)
 - [PhD Research](pages/Phd.md)
 - [News](pages/News.md)
