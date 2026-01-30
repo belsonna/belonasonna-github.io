@@ -1,6 +1,11 @@
 # Publications
 
-[← Back to Home](../index.md)
+
+## Navigation
+- [Back to Home](../index.md)
+- [PhD Research](pages/Phd.md)
+- [News](pages/News.md)
+- [CV & Contact](pages/Contact.md)
 
 ---
 
