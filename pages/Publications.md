@@ -1,10 +1,4 @@
 # Publications
-## Navigation
-- [Back to Home](../index.md)
-- [PhD Research](pages/Phd.md)
-- [News](pages/News.md)
-- [CV & Contact](pages/Contact.md)
-
 ---
 
 - **Belona Sonna**, Alban Grastien, Claire Benn. _Beyond Verification: Abductive Explanations for Post-AI Assessment of Privacy Leakage_.  In Proceedings of The Workshop on Post-AI Formal Methods @ AAAI-26.[[Link](https://arxiv.org/abs/2511.10284v1)]
@@ -17,4 +11,9 @@ Diversity in Tech Workplaces_. In Proceedings of Empowering Women of Colour in A
 - Full list available through my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=oqqzmloAAAAJ)
 
 
+## Navigation
+- [Back to Home](../index.md)
+- [PhD Research](pages/Phd.md)
+- [News](pages/News.md)
+- [CV & Contact](pages/Contact.md)
 
