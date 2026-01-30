@@ -10,9 +10,13 @@ Diversity in Tech Workplaces_. In Proceedings of Empowering Women of Colour in A
 - Full list available through my [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=oqqzmloAAAAJ)
 
 
+---
+
 ## Navigation
-- [Home](../index.md)
+
 - [PhD Research](pages/Phd.md)
+- [Publications](pages/Publications.md)
 - [News](pages/News.md)
 - [CV & Contact](pages/Contact.md)
 
+---
