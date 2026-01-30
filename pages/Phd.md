@@ -1,5 +1,8 @@
 # My PhD in Depth
-[← Back to Home](../index.md)
+[Back to Home](../index.md)
+[Publications](pages/Publications.md)
+[News](pages/News.md)
+[CV & Contact](pages/Contact.md)
 
 ---
 
