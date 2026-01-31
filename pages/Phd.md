@@ -22,7 +22,7 @@ When discussing <strong>unfairness</strong> and <strong>proxy discrimination</st
 ---
 
 ### _How can this transparency assess privacy leakage?_
-
+![Abductive Explanation for privacy leakage](../assets/images/privacy_audit.png)
 We study reflective privacy leakage, which occurs when an AI model’s outputs reveal sensitive information about individuals. Our approach distinguishes between open and private variables, partitioning each individual’s features into an open profile, which is publicly accessible, and a private profile, which should remain hidden. Within this framework, individuals are classified as sensitive or non-sensitive. Using abductive explanations, we define privacy preservation for a sensitive individual as the model’s ability to produce an explanation that applies to both that individual and at least one non-sensitive individual based solely on their shared open profile. When such an explanation exists, the model is said to guarantee a shielder, and assessing privacy leakage amounts to verifying whether every sensitive individual admits one. <em>[Accepted at Post-AI Formal Methods at AAAI-26]</em>.
 [[Workshop Paper](https://arxiv.org/abs/2511.10284v1)]. Furthermore, we propose a <strong>repair methodology</strong> that enforces this property, guaranteeing that every sensitive individual admits a shielder <em>[submitted under review]</em>
 
