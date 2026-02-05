@@ -30,9 +30,8 @@ We study reflective privacy leakage, which occurs when an AI model’s outputs r
 
 ### _How can this transparency improve healthcare decision-making and clinician–AI alignment?_
 
-<p align="justify">
+![Abductive Explanation for clinician reasoning](../assets/images/alignment_audit.png)
 Although AI has demonstrated strong potential in <strong>healthcare decision-making</strong>, sometimes surpassing clinicians in diagnosis, its integration into clinical practice remains limited. A key challenge is the <strong>lack of trust in AI reasoning</strong>, as clinicians are often uncertain whether model decisions rely on <strong>clinically meaningful facts</strong>. While clinicians typically base diagnoses on specific clinical evidence, AI systems may justify the same diagnosis using alternative patterns learned from data. Since <strong>abductive explanations reveal model reasoning by identifying all formal hypotheses supporting a decision</strong>, we investigate how they can be used to <strong>bridge clinical reasoning and AI reasoning</strong>. We show that an AI model’s diagnosis is <strong>aligned with clinical reasoning</strong> if it provides at least one explanation that includes a clinically relevant fact <em>[Accepted at Adaptive Learning & Intelligent Systems 2026]</em>.
-</p>
 
 ---
 
