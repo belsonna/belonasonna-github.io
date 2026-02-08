@@ -15,7 +15,8 @@ Belona is a PhD Candidate at the Australian National University, where my resear
 ---
 
 ### Contact Me
-My CV is accessible [[here]()]
+My CV is accessible <a href="assets/Belona_Sonna_CV_website.pdf" target="_blank">Here</a>
+
 
 Reach out at: belona.sonna@anu.edu.au **or** belonasonna@gmail.com
 
