@@ -2,6 +2,10 @@
 ## News
 ---
 
+- **February 2026**: I was thrilled to deliver an paper oral presenttaion at the Adaptive Learning and Intelligent Systems (ALIS) @ ACSW-26
+- **January 2026**: I was thrilled to deliver an paper oral presentation at the Post AI Formal Methods @ AAAI-26
+- **December 2025**: I was thrilled to deliver a long oral presentation at Australasian Joint Conference in Artificial Intelligence AJCAI-25
+- **December 2025**: I was thrilled to present a poster at the Next Generation responsible AI Symposium 2026 in Adelaide, Australia
 - **August 2025**: I was thrilled to deliver a lightning talk at the Empowering Women of Colour in AI-Driven Mental Health Research @ IJCAI-25
 - **July 2025**: I have served as reviewer for the Trustworthy AI workshop @ Deep Learning Indaba 2025
 - **June 2025**: I have served as reviewer for the AIES 2025 Conference
