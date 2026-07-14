@@ -1,7 +1,7 @@
 
 ## News
 ---
-- **March 2026**:  I have served as Co-chair of the [TrustAI](https://trustaideepindaba.github.io/) Workshop at the [Deep Learning Indaba 2026](https://deeplearningindaba.com/2026/).
+- **May - August 2026**:  I have served as Co-chair of the [TrustAI](https://trustaideepindaba.github.io/) Workshop at the [Deep Learning Indaba 2026](https://deeplearningindaba.com/2026/).
 - **March 2026**:  I have served as reviewer for the IJCAI-26 Conference.
 - **February 2026**: I was thrilled to deliver an paper oral presenttaion at the [Adaptive Learning and Intelligent Systems](https://sites.google.com/view/alis2026/home) (ALIS) @ ACSW-26
 - **January 2026**: I was thrilled to deliver an paper oral presentation at the [Post AI Formal Methods](https://www.p-ai-fm.com/#Schedule) @ AAAI-26
